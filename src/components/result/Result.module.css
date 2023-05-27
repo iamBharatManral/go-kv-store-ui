@@ -1,6 +1,6 @@
 .value {
     padding: 0.5rem 1rem;
-    background: #cb7783;
-    color: white;
-    border-radius: 10px;
+    font-size: 1.4rem;
+    font-style: italic;
+    text-decoration: underline;
 }

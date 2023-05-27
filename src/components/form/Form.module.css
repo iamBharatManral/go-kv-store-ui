@@ -18,8 +18,10 @@
 .form form button{
     padding: 0.5rem 1rem;
     font-size: 1.3rem;
-    color: #cb2222;
+    color: #de4e4e;
+    font-weight: bold;
     background: #d7a732;
     border: 5px solid black;
     border-radius: 10px;
+    cursor: pointer;
 }
