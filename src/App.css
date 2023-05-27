@@ -1,3 +1,18 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    gap: 2rem;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    max-width: 60%;
+    margin: 0 auto;
+    gap: 2rem;
+    width: 60%;
+}
 h1 {
     font-style: italic;
     font-size: 3rem;

@@ -1,0 +1,25 @@
+
+.form form{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: stretch;
+}
+
+.form form input{
+    flex-basis: 80%;
+    border-radius: 10px;
+    border: none;
+    padding: 0.7rem;
+    font-size: 1.4rem;
+    flex-grow: 1;
+}
+
+.form form button{
+    padding: 0.5rem 1rem;
+    font-size: 1.3rem;
+    color: #cb2222;
+    background: #d7a732;
+    border: 5px solid black;
+    border-radius: 10px;
+}
