@@ -1,1 +1,1 @@
-User Interface for "Valora", a Key Value Store
+User Interface for "ByteHaven", a Key Value Store
